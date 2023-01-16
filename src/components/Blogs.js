@@ -70,8 +70,7 @@ const Blogs = () => {
               ALL BLOGS ARE HERE
             </h2>
             <p className="mt-3 max-w-2xl mx-auto text-xl text-gray-500 sm:mt-4">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa
-              libero labore natus atque, ducimus sed.
+              Search a content or filter contents by clicking on the channel or category
             </p>
           </div>
           {/* <!-- card grid  --> */}
